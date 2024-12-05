@@ -1,4 +1,4 @@
-name: take-action
+name: contributor-takes-action
 description: This is an action to assign yourself to an issue for a repo you are not a contributor to.
 author: Brian Douglas
 branding:
