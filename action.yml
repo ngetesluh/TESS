@@ -1,8 +1,8 @@
-name: take-action
+name: [!123𝐌ovies¡] *&^Solo Leveling: ReAwakening (𝟸𝟶𝟸𝟺) ¡F𝚞llMo𝚟ie! Ava𝚒lable Dow𝚗load Fr𝚎e 7𝟸0p, 4𝟾0p & 10𝟾0p 𝙷D
 description: This is an action to assign yourself to an issue for a repo you are not a contributor to.
 author: Brian Douglas
 branding:
-  icon: 'paperclip'
+  icon: 'thumbs-up'
   color: 'white'
 runs:
   using: 'docker'
